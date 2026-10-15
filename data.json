@@ -6,27 +6,27 @@
     "email": "nama@contoh.com",
     "whatsapp": "0812-3456-7890"
   },
-  "produk": [
-    {
-      "nama": "Produk A",
-      "harga": 252320,
-      "deskripsi": "Deskripsi singkat produk A."
-    },
-    {
-      "nama": "Produk A",
-      "harga": 252320,
-      "deskripsi": "Deskripsi singkat produk A."
-    },
-    {
-      "nama": "Produk B",
-      "harga": 50000,
-      "deskripsi": "Deskripsi singkat produk B."
-    },
-    {
-      "nama": "Produk C",
-      "harga": 75000,
-      "deskripsi": "Deskripsi singkat produk C."
-    }
+ "produk": [
+  {
+    "nama": "Produk A",
+    "harga": 25000,
+    "deskripsi": "Deskripsi singkat produk A."
+  },
+  {
+    "nama": "Produk B",
+    "harga": 50000,
+    "deskripsi": "Deskripsi singkat produk B."
+  },
+  {
+    "nama": "Produk C",
+    "harga": 75000,
+    "deskripsi": "Deskripsi singkat produk C."
+  },
+  {
+    "nama": "Produk D",
+    "harga": 100000,
+    "deskripsi": "Deskripsi produk D."
+  }
   ],
   "footer": "© 2026 Website Pertama Saya"
 }
