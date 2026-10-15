@@ -13,6 +13,11 @@
       "deskripsi": "Deskripsi singkat produk A."
     },
     {
+      "nama": "Produk A",
+      "harga": 252320,
+      "deskripsi": "Deskripsi singkat produk A."
+    },
+    {
       "nama": "Produk B",
       "harga": 50000,
       "deskripsi": "Deskripsi singkat produk B."
