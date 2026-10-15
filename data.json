@@ -1,0 +1,27 @@
+{
+  "judul": "Website Pertama Saya",
+  "subjudul": "Dibuat dan di-hosting gratis dengan GitHub Pages",
+  "tentang": "Ini adalah website sederhana buatan saya. Semua tulisan di halaman ini diambil dari file data.json, jadi saya bisa mengubahnya kapan saja langsung dari GitHub.",
+  "kontak": {
+    "email": "nama@contoh.com",
+    "whatsapp": "0812-3456-7890"
+  },
+  "produk": [
+    {
+      "nama": "Produk A",
+      "harga": 25000,
+      "deskripsi": "Deskripsi singkat produk A."
+    },
+    {
+      "nama": "Produk B",
+      "harga": 50000,
+      "deskripsi": "Deskripsi singkat produk B."
+    },
+    {
+      "nama": "Produk C",
+      "harga": 75000,
+      "deskripsi": "Deskripsi singkat produk C."
+    }
+  ],
+  "footer": "© 2026 Website Pertama Saya"
+}
